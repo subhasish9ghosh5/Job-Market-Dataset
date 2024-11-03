@@ -1,7 +1,7 @@
 # Job-Market-Dataset
 
 <p align="center">
-  <img width="400" height="200" src="New folder/state vs ship rate.png"></p>
+  <img width="400" height="200" src="NScreenshot 2024-11-01 214544.png"></p>
 
 ## Description : 
 🌍 Unlocking Global Job Market Insights with Power BI 🌍
